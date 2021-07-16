@@ -54,5 +54,5 @@ b = 'GxbYe,NKeEK,Vpums,isHaj,VYNOJ,null,<div class="yjs-content"><p style="backg
 after preparing the code using python script prepare_js_code.py to replace all c('0xX') with the b list value and we get code_after.js ready to run
 Example
 ```javascript
-t['RyyXt'] to t[c('0x1b')]
+t[c('0x1b')] to t['RyyXt'] 
 ```
