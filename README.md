@@ -57,7 +57,7 @@ Example
 t[c('0x1b')] to t['RyyXt'] 
 ```
 3- post requests to https://deerequipment.com/cdn-cgi/challenge-platform/h/b/flow/ov1/0.2281579673964972:1625784938:3707080a78fc301bc990971269688e856e3b796bc94633cec3bbc5e6ce71a5d2/66bcf45b2880e910/bbe0ba7eac360e3 response 200 using this function of code.js or code_after.js
-with header 
+```Header 
 CF-Challenge: bbe0ba7eac360e3
 Content-type: application/x-www-form-urlencoded
 and body 
@@ -65,7 +65,7 @@ v_66bcf45b2880e910: $OB6n6r646260CAlqAm6Hnag6ZQMqOpwDAVPXz6dOp6ATOA7P6hO20lBA7A8
 and cookies
 cf_chl_2=bbe0ba7eac360e3
 cf_chl_prog=e
-
+```
 ```javascript
 var B, C;
 B = 'POST', A['open'](B, u, !![]), x['GxbYe'] in A && (A['timeout'] = 2500, A['ontimeout'] = function() {
