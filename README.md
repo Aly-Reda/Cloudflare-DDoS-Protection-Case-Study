@@ -56,3 +56,14 @@ Example
 ```javascript
 t[c('0x1b')] to t['RyyXt'] 
 ```
+3- requests to https://deerequipment.com/cdn-cgi/challenge-platform/h/b/flow/ov1/0.2281579673964972:1625784938:3707080a78fc301bc990971269688e856e3b796bc94633cec3bbc5e6ce71a5d2/66bcf45b2880e910/bbe0ba7eac360e3 response 200 using this function of code.js or code_after.js
+```javascript
+var B, C;
+B = 'POST', A['open'](B, u, !![]), x['GxbYe'] in A && (A['timeout'] = 2500, A['ontimeout'] = function() {
+    z()
+}), A['setRequestHeader'](x['pqwyf'], x['gIUgx']), A['setRequestHeader']('CF-Challenge', d['_cf_chl_opt']['cHash']), A['onreadystatechange'] = function() {
+    if (x['BArns'](A['readyState'], 4)) return;
+    if (A['status'] != 200 && x['BArns'](A['status'], 304)) return x['hvHAp'](z), void 0;
+    q(A), x['FhLym'](n, x['jbDiJ'], x['akkDn']('b', d['_cf_chl_ctx']['chC']), 1), new d[('Function')](decodeURIComponent(g['VGOCnLQd'](h(A['responseText']))))(), x['VYNOJ'](n, x['jbDiJ'], 'a' + d['_cf_chl_ctx']['chC'], 1)
+}, C = g['WEDij'](JSON['stringify'](d['_cf_chl_ctx']))['replace']('+', x['FFBfO']), A['send']('v_' + d['_cf_chl_opt']['cRay'] + '=' + C)
+```
