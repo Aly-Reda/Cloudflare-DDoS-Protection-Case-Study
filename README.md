@@ -2,6 +2,7 @@
 Case Study of Cloudflare DDoS Protection
 
 ![Cloudflare DDoS](src/ddos.gif)
+![All Requests](src/requests.PNG)
 
 1. Request to 'https://deerequipment.com/wp-json/cnb/v1/equipment/in-stock/used' with respone 503 and index.html
 - _cf_chl_opt
