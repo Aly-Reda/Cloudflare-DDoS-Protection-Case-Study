@@ -1,6 +1,7 @@
 # Cloudflare DDoS Protection Case-Study
 
 ![Cloudflare DDoS](src/ddos.gif)
+
 ![All Requests](src/requests_.PNG)
 
 1. Request to 'https://deerequipment.com/wp-json/cnb/v1/equipment/in-stock/used' with respone 503 and index.html
@@ -106,6 +107,8 @@ cf_chl_2=bbe0ba7eac360e3
 ```
 to get response encoding_response_2txt
 and after using the code.js decoding function we get decoding_response_2.js by running the script we send request
+
+5. the final post request to https://deerequipment.com/wp-json/cnb/v1/equipment/in-stock/used
 ```
 URL
 https://deerequipment.com/wp-json/cnb/v1/equipment/in-stock/used?__cf_chl_jschl_tk__=f8d38707746b17a9e36e3476807e9ac96cfb2f87-1625785496-0-AUVWLkNMoY7_BYyID3lZZin3ddFtvODijtBo0k6_8P92QpGc7S9da9Sru8WHyl-1724ApuJWXSsgU3ERL7hgCqTCXcJqBwJemONJa_ZISdMqnCWTTUqJO20VRxgh9KZH9FktGcaTqfgWmWWO9dsvH0ITF45GagPYBqn6HNFo880-KYmOrjNdMvDBZuFUXdHPxjiPRScXYi-oY2QgA4KIjwy8SmhjgsXFQg60MUbqlqTODSWsWIDxGgNY3TQBKM3kzyMJzOo64EXFtOsYskKw6hekL7P_1gRiKS5-t0ySR1RY4ubgbEyGqy2AVtL7h3UbxA9x0qUe1llrTWj4TvMR-ikRwxZ2YPoHGIy9RK9A_wIdKZ2iYh3BYj1l1YZYuA4MXbxKXr0HgbGSk-QHZ2RCdvEXKLXwnlyc5vXWC8Xfzu82rGiwCSWdOBDr6B3LvFajlJLuLLdxz7NMAb97ClmUXMSLbM86cde55DnK2e7HYYAKeOUvnLih9vD0UBCxOkP7jg
