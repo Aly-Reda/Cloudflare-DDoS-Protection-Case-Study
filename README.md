@@ -4,7 +4,7 @@ Case Study of Cloudflare DDoS Protection
 ![Cloudflare DDoS](src/ddos.gif)
 
 1. Request to 'https://deerequipment.com/wp-json/cnb/v1/equipment/in-stock/used' with respone 503 and index.html
-a._cf_chl_opt
+- _cf_chl_opt
 ```javascript
 window._cf_chl_opt={
   cvId: "2",
@@ -30,7 +30,7 @@ window._cf_chl_opt={
 }
 
 ```
-b.Challenge Form
+- Challenge Form
 
 ```html
 <form class="challenge-form" id="challenge-form" action="/wp-json/cnb/v1/equipment/in-stock/used?__cf_chl_jschl_tk__=f8d38707746b17a9e36e3476807e9ac96cfb2f87-1625785496-0-AUVWLkNMoY7_BYyID3lZZin3ddFtvODijtBo0k6_8P92QpGc7S9da9Sru8WHyl-1724ApuJWXSsgU3ERL7hgCqTCXcJqBwJemONJa_ZISdMqnCWTTUqJO20VRxgh9KZH9FktGcaTqfgWmWWO9dsvH0ITF45GagPYBqn6HNFo880-KYmOrjNdMvDBZuFUXdHPxjiPRScXYi-oY2QgA4KIjwy8SmhjgsXFQg60MUbqlqTODSWsWIDxGgNY3TQBKM3kzyMJzOo64EXFtOsYskKw6hekL7P_1gRiKS5-t0ySR1RY4ubgbEyGqy2AVtL7h3UbxA9x0qUe1llrTWj4TvMR-ikRwxZ2YPoHGIy9RK9A_wIdKZ2iYh3BYj1l1YZYuA4MXbxKXr0HgbGSk-QHZ2RCdvEXKLXwnlyc5vXWC8Xfzu82rGiwCSWdOBDr6B3LvFajlJLuLLdxz7NMAb97ClmUXMSLbM86cde55DnK2e7HYYAKeOUvnLih9vD0UBCxOkP7jg" method="POST" enctype="application/x-www-form-urlencoded">
