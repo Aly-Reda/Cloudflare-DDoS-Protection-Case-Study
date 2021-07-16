@@ -84,3 +84,7 @@ Cookies
 cf_chl_2=bbe0ba7eac360e3
 cf_chl_prog=e
 ```
+to get response endcoing_response_1.txt
+and after using the code.js decoding function we get dendcoing_response_1.js by running the script we send request
+
+4- post requests to https://deerequipment.com/cdn-cgi/challenge-platform/h/b/flow/ov1/0.2281579673964972:1625784938:3707080a78fc301bc990971269688e856e3b796bc94633cec3bbc5e6ce71a5d2/66bcf45b2880e910/bbe0ba7eac360e3 response 200 
